@@ -37,7 +37,7 @@ Dashboard desenvolvido para acompanhar a execução dos testes durante o process
 ### Preview
 
 <p align="center">
-    <img src="images/dashboard-testes.png" width="900">
+    <img src="images/dashboard-testes.JPG" width="900">
 </p>
 
 ---
@@ -60,7 +60,7 @@ Painel destinado ao acompanhamento das atividades da implantação e monitoramen
 ### Preview
 
 <p align="center">
-    <img src="images/dashboard-migracao.png" width="900">
+    <img src="images/dashboard-migracao.jpeg" width="900">
 </p>
 
 ---
@@ -80,7 +80,7 @@ Dashboard desenvolvido para acompanhar a presença dos colaboradores durante as 
 ### Preview
 
 <p align="center">
-    <img src="images/dashboard-presenca.png" width="900">
+   <img src="images/dashboard-presenca.png.jpeg" width="900">
 </p>
 
 ---
@@ -105,25 +105,6 @@ Dashboard desenvolvido para acompanhar a presença dos colaboradores durante as 
 
 ---
 
-# 📂 Estrutura do Repositório
-
-```text
-dashboard-gestao-migracao-sistemas/
-│
-├── README.md
-├── Dashboard.pbix
-├── Base_Ficticia.xlsx
-│
-├── images/
-│   ├── dashboard-testes.png
-│   ├── dashboard-migracao.png
-│   └── dashboard-presenca.png
-│
-└── docs/
-```
-
----
-
 # 💼 Competências Demonstradas
 
 - Power BI
@@ -143,15 +124,15 @@ dashboard-gestao-migracao-sistemas/
 
 <p align="center">
 
-<img src="images/dashboard-testes.png" width="95%">
+<img src="images/dashboard-testes.JPG" width="900">
 
 <br><br>
 
-<img src="images/dashboard-migracao.png" width="95%">
+<img src="images/dashboard-migracao.jpeg" width="900">
 
 <br><br>
 
-<img src="images/dashboard-presenca.png" width="95%">
+<img src="images/dashboard-presenca.png.jpeg" width="900">
 
 </p>
 
