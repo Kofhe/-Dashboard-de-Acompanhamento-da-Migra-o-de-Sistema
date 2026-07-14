@@ -1,4 +1,5 @@
 # 📊 Dashboard de Gestão da Implantação e Migração de Sistemas Hospitalares
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![DAX](https://img.shields.io/badge/DAX-025E8C?style=for-the-badge)![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Projeto desenvolvido em **Power BI** com o objetivo de demonstrar a criação de dashboards voltados ao acompanhamento da migração de sistemas, execução de testes, monitoramento da implantação e análise de indicadores operacionais.
 
@@ -82,6 +83,11 @@ Dashboard desenvolvido para acompanhar a presença dos colaboradores durante as 
 <p align="center">
    <img src="images/dashboard-presenca.png.jpeg" width="900">
 </p>
+
+---
+## 🎯 Resultado
+
+O projeto possibilita acompanhar a evolução dos testes, monitorar tickets da implantação, identificar pendências e visualizar indicadores operacionais de forma centralizada, facilitando o acompanhamento do processo de migração do sistema.
 
 ---
 
